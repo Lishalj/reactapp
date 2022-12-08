@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b75fddb7.css",
+    "main.js": "/static/js/main.653a7db6.js",
+    "static/media/blue-monster.jpg": "/static/media/blue-monster.db2ee9cf52a4db984c1d.jpg",
+    "index.html": "/index.html",
+    "main.b75fddb7.css.map": "/static/css/main.b75fddb7.css.map",
+    "main.653a7db6.js.map": "/static/js/main.653a7db6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b75fddb7.css",
+    "static/js/main.653a7db6.js"
+  ]
+}
